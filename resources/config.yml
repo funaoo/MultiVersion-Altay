@@ -1,0 +1,17 @@
+enable-packet-warning: true
+auto-fix-world-network-version: true
+verify-chunk-payloads: false
+bad-packet-diagnostics: true
+enable-nethernet: true
+enable-raknet: true
+disabled-protocols: []
+allowed-protocols: []
+preload-on-startup: true
+preload-caches: true
+ice-servers:
+  - "stun:stun.l.google.com:19302"
+  - "stun:stun1.l.google.com:19302"
+  - "stun:stun.cloudflare.com:3478"
+ice-username: ""
+ice-password: ""
+ice-relay-only: false

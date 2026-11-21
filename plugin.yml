@@ -1,0 +1,11 @@
+---
+name: MultiVersion
+version: "1.0"
+api: 5.0.0
+mcpe-protocol:
+- 2225
+- 844
+- 84
+main: lol\Loader
+load: STARTUP
+...

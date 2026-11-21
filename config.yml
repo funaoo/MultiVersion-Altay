@@ -1,0 +1,23 @@
+enable-packet-warning: false
+auto-fix-world-network-version: false
+verify-chunk-payloads: false
+debug: false
+bad-packet-diagnostics: true
+enable-nethernet: true
+enable-raknet: true
+disabled-protocols: []
+allowed-protocols: []
+preload-on-startup: true
+preload-caches: true
+ice-servers:
+  - "stun:stun.l.google.com:19302"
+  - "stun:stun1.l.google.com:19302"
+  - "stun:stun.cloudflare.com:3478"
+ice-username: ""
+ice-password: ""
+ice-relay-only: false
+scoreboard-bridge: true
+scoreboard-refresh-ticks: 10
+scoreboard-max-lines: 12
+scoreboard-channel: tip
+scoreboard-show-numbers: false
