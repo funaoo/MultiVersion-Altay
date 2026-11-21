@@ -83,6 +83,10 @@ MultiVersionAPI::isProtocol($player, MultiVersionAPI::PROTOCOL_1_21_114);
 
 Players on 0.15.10 join without Xbox authentication, so anyone can use another person's name. Protect anything tied to player names (ranks, permissions, economy) with another method, such as a login password plugin.
 
+## Bugs and support
+
+If you find a bug or an error, please report it on our Discord: https://discord.gg/radVuE6crM
+
 ## Credits
 
 - [JoggingSplash/MultiVersion](https://github.com/JoggingSplash/MultiVersion): the base project this plugin comes from.
