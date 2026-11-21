@@ -42,6 +42,8 @@ This plugin runs on [Altay](https://github.com/altayofficial). It will not work 
 
 InvMenu is included in this repository at `src/libs/muqsit/invmenu`, under the namespace `libs\muqsit\invmenu`. MultiVersion registers it on its own at startup, so it works on every supported version without installing anything else.
 
+**It is recommended to use the InvMenu included in this repository, especially for players on 0.15.10.**
+
 To use it from another plugin:
 
 1. Add `depend: [MultiVersion]` to your plugin's `plugin.yml`.
